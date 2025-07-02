@@ -1463,6 +1463,13 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroPremierLeague1.id" group-title="📁 Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS1.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2.id" group-title="📁 Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS2.m3u8
+
 #EXTINF:-1 tvg-id="AstroFootball.id" group-title="📁 Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/ecb4eeb258334f80a99eadeffa6f5340/version/0/width/500/height/280",Astro Football
 https://ott.udptv.org/stream/astro/astrofootball/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
