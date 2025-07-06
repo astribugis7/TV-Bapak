@@ -731,7 +731,8 @@ https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/Kids/edc76fc8bbe
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="MENTARITV.id" group-title="📁 Kids" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",MENTARI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
@@ -1011,11 +1012,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="MYCINEMA.id" group-title="📁 Movies",MY CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="MYCINEMA.id" group-title="📁 Movies",MY CINEMA
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
 
 #EXTINF:-1 tvg-id="MYCINEMAASIA.id" group-title="📁 Movies",MY CINEMA ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
