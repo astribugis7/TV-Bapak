@@ -9,7 +9,6 @@ Champions TV 3 = starlord.web.id
 Premier League TV = peacocktv.com
 Champions TV 5 = starlord.web.id
 Champions TV 6 = starlord.web.id
-Sportstars 2 = cloudfront.net
 Sportstars 3 = d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 Indosiar = qtv.my.id
 Soccer Channel = d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd?token=c5jV1GTfW6ljFgWDiEeT8oxv22BEb22v
