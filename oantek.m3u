@@ -1682,11 +1682,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 #EXTINF:-1 tvg-id="BABYTV.id" group-title="📁 Kids",BABYTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/babytv.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="CBEEBIES.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png",CBEEBIES
-https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
-
 #EXTINF:-1 tvg-id="CBEEBIES.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png",CBEEBIES
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1698,6 +1693,11 @@ https://tvking6282.cloud/visionplus/Cbeebies.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://tvking6282.cloud/visionplus/Cbeebies.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-id="CBEEBIES.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png",CBEEBIES
+https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 
 #EXTINF:-1 tvg-id="CBEEBIES.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png",CBEEBIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1899,13 +1899,13 @@ https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 #EXTINF:-1 tvg-id="CARTOONNETWORK.id" group-title="📁 Kids" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/cartoon-network.png",CARTOON NETWORK
+https://tvking6282.cloud/k0detv2206/Kids/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="CARTOONNETWORK.id" group-title="📁 Kids" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/cartoon-network.png",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
-
-#EXTINF:-1 tvg-id="CARTOONNETWORK.id" group-title="📁 Kids" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/cartoon-network.png",CARTOON NETWORK
-https://tvking6282.cloud/k0detv2206/Kids/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="CARTOONNETWORK.id" group-title="📁 Kids" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/cartoon-network.png",CARTOON NETWORK
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2078,9 +2078,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/disney%20chann
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 #EXTINF:-1 tvg-id="MENTARITV.id" group-title="📁 Kids" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",MENTARI TV
-https://starlord.web.id/pidio/index.m3u8?id=8237&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6
-
-#EXTINF:-1 tvg-id="MENTARITV.id" group-title="📁 Kids" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",MENTARI TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 
@@ -2092,6 +2089,9 @@ https://tvking6282.short.gy/mentaritv.mpd
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mastertv.tech/vid/vid.m3u8?id=8237
+
+#EXTINF:-1 tvg-id="MENTARITV.id" group-title="📁 Kids" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",MENTARI TV
+https://starlord.web.id/pidio/index.m3u8?id=8237&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 tvg-id="MENTARITV.id" group-title="📁 Kids" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",MENTARI TV
 #https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
@@ -2112,18 +2112,18 @@ https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/Kids/edc76fc8bbe
 #EXTINF:-1 tvg-id="MENTARITV.id" group-title="📁 Kids" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",MENTARI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-id="ANIMAX.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",ANIMAX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
-
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-id="ANIMAX.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 https://tvking6282.cloud/visionplus/Animax.mpd
+
+#EXTINF:-1 tvg-id="ANIMAX.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",ANIMAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 #EXTINF:-1 tvg-id="ANIMAX.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2223,17 +2223,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="KIDSTV.id" group-title="📁 Kids" tvg-logo="https://yt3.googleusercontent.com/uGak22LOT7AN1k2s2i8db05zbBzly8Ts5hs530SqN0Fd1YTKSIQE-v6Xd4uPwNgiM--Kl3PAYA=s900-c-k-c0x00ffffff-no-rj",KIDS TV
-https://av-ch-cdn.mncnow.id/live/eds/Kids-HD/sa_dash/Kids-HD.mpd
-
 #EXTINF:-1 tvg-id="KIDSTV.id" group-title="📁 Kids" tvg-logo="https://yt3.googleusercontent.com/uGak22LOT7AN1k2s2i8db05zbBzly8Ts5hs530SqN0Fd1YTKSIQE-v6Xd4uPwNgiM--Kl3PAYA=s900-c-k-c0x00ffffff-no-rj",KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://tvking6282.cloud/live/KidsTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-id="KIDSTV.id" group-title="📁 Kids" tvg-logo="https://yt3.googleusercontent.com/uGak22LOT7AN1k2s2i8db05zbBzly8Ts5hs530SqN0Fd1YTKSIQE-v6Xd4uPwNgiM--Kl3PAYA=s900-c-k-c0x00ffffff-no-rj",KIDS TV
+https://av-ch-cdn.mncnow.id/live/eds/Kids-HD/sa_dash/Kids-HD.mpd
 
 #EXTINF:-1 tvg-id="KIDSTV.id" group-title="📁 Kids" tvg-logo="https://yt3.googleusercontent.com/uGak22LOT7AN1k2s2i8db05zbBzly8Ts5hs530SqN0Fd1YTKSIQE-v6Xd4uPwNgiM--Kl3PAYA=s900-c-k-c0x00ffffff-no-rj",KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2285,7 +2285,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="Horee.id" group-title="📁 Kids",Horee
-https://starlord.web.id/pidio/master.m3u8?id=6397&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://tvking6282.cloud/live/HoreeHD.mpd
 
 #EXTINF:-1 tvg-id="Horee.id" group-title="📁 Kids",Horee
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2294,15 +2297,12 @@ https://starlord.web.id/pidio/master.m3u8?id=6397&token=gH6favjoMIy0Ci5tFBoo8Auy
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 #EXTINF:-1 tvg-id="Horee.id" group-title="📁 Kids",Horee
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-https://tvking6282.cloud/live/HoreeHD.mpd
-
-#EXTINF:-1 tvg-id="Horee.id" group-title="📁 Kids",Horee
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://newfamilytv.my.id/vid/vid.mpd?id=6397
+
+#EXTINF:-1 tvg-id="Horee.id" group-title="📁 Kids",Horee
+https://starlord.web.id/pidio/master.m3u8?id=6397&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 tvg-id="Horee.id" group-title="📁 Kids",Horee
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3487,12 +3487,6 @@ https://bintangstreaming.my.id/rcti_plus/index.mpd?id=115
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="📁 Sports" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-l.png",Soccer Channel
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6685&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-#EXTINF:-1 tvg-id="ChampionsTV1.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg",Champions TV 1
-https://starlord.web.id/pidio/master.mpd?id=6685&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
 #EXTINF:-1 tvg-id="ChampionsTV1.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3502,9 +3496,9 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6686&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-#EXTINF:-1 tvg-id="ChampionsTV2.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/fMNzQjcJ3Ivu1avjeNbVwPigh5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4226012/135010.jpg",Champions TV 2
-https://starlord.web.id/pidio/master.mpd?id=6686&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6685&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-id="ChampionsTV1.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg",Champions TV 1
+https://starlord.web.id/pidio/master.mpd?id=6685&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/fMNzQjcJ3Ivu1avjeNbVwPigh5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4226012/135010.jpg",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3512,6 +3506,12 @@ https://starlord.web.id/pidio/master.mpd?id=6686&token=gH6favjoMIy0Ci5tFBoo8Auyz
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6686&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-id="ChampionsTV2.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/fMNzQjcJ3Ivu1avjeNbVwPigh5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4226012/135010.jpg",Champions TV 2
+https://starlord.web.id/pidio/master.mpd?id=6686&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTINF:-1 tvg-id="PremierLeagueTV.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/mRPZMC2zwT68k6JII0b2tZZHy6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-8d1830.jpg",Premier League TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3534,12 +3534,6 @@ https://starlord.web.id/pidio/master.mpd?id=9353&token=gH6favjoMIy0Ci5tFBoo8Auyz
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9353&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9353&type=dash
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6786&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-#EXTINF:-1 tvg-id="ChampionsTV3.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg",Champions TV 3
-https://starlord.web.id/pidio/master.mpd?id=6786&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
 #EXTINF:-1 tvg-id="ChampionsTV3.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3550,9 +3544,9 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-#EXTINF:-1 tvg-id="ChampionsTV5.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/rU_gPQKkA6dYjjd21qCpDMLecHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg",Champions TV 5
-https://starlord.web.id/pidio/master.mpd?id=9182&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6786&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-id="ChampionsTV3.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg",Champions TV 3
+https://starlord.web.id/pidio/master.mpd?id=6786&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTINF:-1 tvg-id="ChampionsTV5.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/rU_gPQKkA6dYjjd21qCpDMLecHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3563,9 +3557,9 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9183&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-#EXTINF:-1 tvg-id="ChampionsTV6.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg",Champions TV 6
-https://starlord.web.id/pidio/master.mpd?id=9183&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-id="ChampionsTV5.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/rU_gPQKkA6dYjjd21qCpDMLecHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg",Champions TV 5
+https://starlord.web.id/pidio/master.mpd?id=9182&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTINF:-1 tvg-id="ChampionsTV6.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3573,6 +3567,12 @@ https://starlord.web.id/pidio/master.mpd?id=9183&token=gH6favjoMIy0Ci5tFBoo8Auyz
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9183&type=drm&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-id="ChampionsTV6.id" group-title="📁 Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg",Champions TV 6
+https://starlord.web.id/pidio/master.mpd?id=9183&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ|User-Agent=VidioPlayer/6.31.6&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTINF:-1 tvg-id="TNTSports1.id" group-title="📁 Sports" tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
