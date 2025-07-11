@@ -152,7 +152,7 @@ for norm in channel_order:
         continue
 
     # Urutkan berdasarkan prioritas
-    preferred_domain = priority_map.get(norm, "terabit.web.id")
+    preferred_domain = priority_map.get(norm, "tvking6282.cloud")
     def domain_priority(block_entry):
         block, _ = block_entry
         url = next((line for line in block.strip().splitlines() if line.startswith("http")), "")
