@@ -2,7 +2,7 @@ export default {
   async fetch(request, env, ctx) {
     const githubToken = env.GITHUB_TOKEN;
 
-    const url = "https://api.github.com/repos/H3X0M/iptv-playlist-updater/contents/oantek.m3u";
+    const url = "https://api.github.com/repos/astribugis7/TV-Bapak/contents/oantek.m3u";
 
     const res = await fetch(url, {
       headers: {
