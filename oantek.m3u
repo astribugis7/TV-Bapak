@@ -617,21 +617,21 @@ http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" group-title="📁 National" tvg-logo="https://iili.io/JMp31cb.png",ANTV
 https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://tvking6282.cloud/live/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 https://tvking6282.cloud/k0detv2206/indosliga.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -641,16 +641,16 @@ https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 http://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -660,14 +660,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -677,31 +677,31 @@ https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantv.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/playlist.mpd
 
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTINF:-1 tvg-id="Indosiar(BRILIGA).id" group-title="📁 Sports",Indosiar ( BRI LIGA )
+#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="📁 National" tvg-logo="https://iili.io/JMp3wV1.png",INDOSIAR
 https://cdnjkt913.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
