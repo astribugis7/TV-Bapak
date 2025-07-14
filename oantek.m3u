@@ -2168,9 +2168,9 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
 #EXTINF:-1 tvg-id="ANIMAX.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",ANIMAX
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="ANIMAX.id" group-title="📁 Kids" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",ANIMAX
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
