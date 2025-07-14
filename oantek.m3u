@@ -3820,12 +3820,6 @@ http://tvking6282.cloud/k0detv2206/Astro/AstroArenaHD2.m3u8
 #EXTINF:-1 tvg-id="AstroArena2.id" group-title="📁 Sports" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",Astro Arena 2
 http://cdn.apigateway.web.id:3000/gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ/stream/hub/astroarena2/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 tvg-id="AstroArena2.id" group-title="📁 Sports" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",Astro Arena 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://icecream.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-
 #EXTINF:-1 tvg-id="AstroArenaBola2.id" group-title="📁 Sports",Astro Arena Bola 2
 http://tvking6282.cloud/k0detv2206/Astro/AstroArenaBola2-HD.m3u8
 
