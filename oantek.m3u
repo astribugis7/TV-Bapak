@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Live5.id" group-title="📁 Movies" tvg-logo="https://iili.io/Jmod0qg.png",IND VS BRUNEI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
 #EXTINF:-1 tvg-id="CCM.id" group-title="📁 Movies" tvg-logo="https://iili.io/Jmod0qg.png",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://tvking6282.cloud/k0detv2206/premium/CCM-HD.m3u8
