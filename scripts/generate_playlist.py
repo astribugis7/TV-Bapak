@@ -10,6 +10,7 @@ LOG_FILE = "log.txt"
 
 URL_SRCS = [
     "https://ott-playlist-worker.prankgokils.workers.dev/",
+    "https://mahadewa666.blogspot.com/2025/04/playlist-iptv-by-zack.html",
     "https://raw.githubusercontent.com/H3X0M/gg/refs/heads/main/new_2025.m3u",
     "https://raw.githubusercontent.com/ali-fajar/FORSAT-TV/refs/heads/main/FORSAT%20TV%20NEW%20PRO",
     "https://raw.githubusercontent.com/alkhalifitv/TV/master/playlist",
