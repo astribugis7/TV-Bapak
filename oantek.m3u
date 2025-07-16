@@ -4563,6 +4563,9 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8u
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="TNTSports1.id" group-title="📁 Sports" tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000",TNT Sports 1
+https://ott.udptv.com/stream/skyie/tntsports1/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 #EXTINF:-1 tvg-id="TNTSports1.id" group-title="📁 Sports" tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000",TNT Sports 1
@@ -4592,6 +4595,9 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNTSports2.id" group-title="📁 Sports" tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000",TNT Sports 2
+https://ott.udptv.com/stream/skyie/tntsports2/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
@@ -4623,6 +4629,9 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNTSports3.id" group-title="📁 Sports" tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000",TNT Sports 3
+https://ott.udptv.com/stream/skyie/tntsports3/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -4656,6 +4665,9 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTINF:-1 tvg-id="TNTSports4.id" group-title="📁 Sports" tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000",TNT Sports 4
+https://ott.udptv.com/stream/skyie/tntsports4/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 #EXTINF:-1 tvg-id="TNTSports4.id" group-title="📁 Sports" tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000",TNT Sports 4
@@ -4673,6 +4685,9 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNTSports5.id" group-title="📁 Sports",TNT Sports 5
+https://ott.udptv.net/stream/iptv/tntsports5/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="SSC1.id" group-title="📁 Sports" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
